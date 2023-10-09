@@ -1,3 +1,9 @@
 szybkość
+<<<<<<< HEAD
 bybybybygit 
 gagaggag
+=======
+lallalall
+sasasasasassa
+doodododododo
+>>>>>>> 2a9f7cc9b6593efb9b53a95f95605535571fdcfe
